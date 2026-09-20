@@ -2,7 +2,7 @@
 
 A beginner-friendly project demonstrating Continuous Integration and Continuous Deployment (CI/CD) using **GitHub Actions** to automatically deploy a static website to **GitHub Pages**.
 
-🔗 **Project Challenge**: [roadmap.sh - GitHub Actions Deployment Workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
+🔗 **Project Challenge**: https://roadmap.sh/projects/github-actions-deployment-workflow
 
 ---
 
@@ -48,7 +48,7 @@ Now, every push to `index.html` on `main` will trigger the live deployment! 🎉
 GitHub-Pages-Deployment/
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml    # GitHub Actions workflow script
-├── index.html            # Static website homepage
-└── README.md             # Project documentation
+│       └── deploy.yml
+├── index.html
+└── README.md
 ```
